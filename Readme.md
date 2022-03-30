@@ -11,12 +11,7 @@ $ . venv/bin/activate
 ```bash
 $ pip3 install -r requirments.txt
 ```
-## Create DB
-```python
-$ python3
->> from App import db
->> db.create_all()
->> exit()
+
 ```
 ## Run Server (http://127.0.0.1:5000/)
 ```bash
